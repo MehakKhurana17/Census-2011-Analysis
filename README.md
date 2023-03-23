@@ -4,7 +4,7 @@ Census is the process by which the information of a given population is calculat
 ![R](https://user-images.githubusercontent.com/121285271/227262305-08c1fbf1-318c-4b45-a168-8796b4005895.png)
 
 # Objective
-To analyse this data from Census 2011 and derive some insights and trends which can be useful for better understanding of what's happening in different states of India and which part can be worked upon by the government bodies. 
+To analyse this data from Census 2011 and derive some insights and trends which can be useful for better understanding of challenges faced in different states of India and to recognize which problems should be be urgently addressed by the government bodies. 
 
 # Data
 Link for the data:
@@ -32,3 +32,4 @@ Link for the data:
 6. Daman and Diu and Dadra and Nagar Haveli are the states having lowest sex ratio (lesser than 800). On the other hand Kerala, Puducherry and Uttarakhand are the states having highest sex ratio (greater than 1000).
 7. Previous census population of India was 1.01 Billion.
 8. Area per person according to previous census population was 0.0031 km2	which now reduced to 0.0026 km2. 
+
