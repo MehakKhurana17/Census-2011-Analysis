@@ -14,15 +14,21 @@ Link for the data:
 
 # SQL Functions Used:
 
-1. Joins
+1. Aggregation functions using Groupby and Having
 2. Subqueries
-3. Multiple joins
-4. Case statements
+3. Joins
+4. Union
 5. Logical conditions
-6. Nested subqueries
+6. Temporary tables
 7. Windows functions
 
 # Insights:
 
-1. Total population of India was found to be 1.2 Billion with an average growth of 19%
-2. 
+1. Total population of India was found to be 1.2 Billion with an average growth of 19%.
+2. Average literacy rate of India was seen to be 72.31%.
+3. Average sex ratio of India as per 2011 Census was 945.
+4. Andaman And Nicobar Islands was having the lowest growth rate of 0.7% , meanwhile Nagaland	showed the highest growth rate of 82.27%.
+5. Jharkhand, Jammu and Kashmir, Rajasthan, Arunachal Pradesh and Bihar are the five states showing lowest literacy rate of less than 66%.
+6. Daman and Diu and Dadra and Nagar Haveli are the states having lowest sex ratio (lesser than 800). On the other hand Kerala, Puducherry and Uttarakhand are the states having highest sex ratio (greater than 1000).
+7. Previous census population of India was 1.01 Billion.
+8. Area per person according to previous census population was 0.0031 km2	which now reduced to 0.0026 km2. 
