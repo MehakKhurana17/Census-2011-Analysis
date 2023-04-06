@@ -1,10 +1,13 @@
 # Census 2011 Analyis
-Census is the process by which the information of a given population is calculated on the basis of economical, educational and social records, in a given period of time. Census is calculated after regular time intervals. These are some basic census facts. In India, the census is carried out every 5 years. 
 
+# About Project
+Analysis of this data from Census 2011 to derive some insights and trends which can be useful for better understanding of challenges faced in different states of India and to recognize which problems should be be urgently addressed by the government bodies. 
+
+#
 ![R](https://user-images.githubusercontent.com/121285271/227262305-08c1fbf1-318c-4b45-a168-8796b4005895.png)
 
-# Objective
-To analyse this data from Census 2011 and derive some insights and trends which can be useful for better understanding of challenges faced in different states of India and to recognize which problems should be be urgently addressed by the government bodies. 
+# Introduction
+Census is the process by which the information of a given population is calculated on the basis of economical, educational and social records, in a given period of time. Census is calculated after regular time intervals. These are some basic census facts. In India, the census is carried out every 5 years. 
 
 # Data
 Link for the data:
