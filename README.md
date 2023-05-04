@@ -17,15 +17,19 @@ Link for the data:
 
 # Highlights:
 
-1. Determined the total population, growth rate, average sex ratio and average literacy rate of India according to 2011 Census data.
+This project aimed to analyze the 2011 Census data of India to derive various demographic statistics. The following tasks were performed:
 
-2. Top 3 states with highest growth % are found so that some major steps can be taken for the growing population in these states.
+1. Total population, growth rate, average sex ratio, and average literacy rate of India were determined based on the 2011 Census data.
 
-3. Bottom 3 states with lowest sex ratio and literacy rate were extracted.
+2. The top three states with the highest growth percentage were identified to take necessary steps for the growing population in those states.
 
-4. Performed statistical calculations to find number of males and females, literates and illiterates in various states.
+3. The bottom three states with the lowest sex ratio and literacy rate were identified.
 
-5. Area per person for this census population V/S Area per person for previous census population was calculated.
+4. Statistical calculations were performed to determine the number of males and females, literates, and illiterates in various states.
+
+5. The area per person for the current census population was compared to the area per person for the previous census population.
+
+The results of this project can provide valuable insights into the demographic trends and distribution of resources in India, aiding policymakers and researchers in making informed decisions.
 
 # SQL Functions Used:
 
@@ -39,19 +43,20 @@ Link for the data:
 
 # Insights:
 
-1. Total population of India was found to be 1.2 Billion with an average growth of 19%.
+The analysis of the 2011 Census data of India revealed the following demographic statistics:
 
-2. Average literacy rate of India was seen to be 72.31%.
+1. The total population of India was found to be 1.2 billion with an average growth rate of 19%.
 
-3. Average sex ratio of India as per 2011 Census was 945.
+2. The average literacy rate of India was found to be 72.31%.
 
-4. Andaman And Nicobar Islands was having the lowest growth rate of 0.7% , meanwhile Nagaland	showed the highest growth rate of 82.27%.
+3. The average sex ratio of India as per the 2011 Census was 945.
 
-5. Jharkhand, Jammu and Kashmir, Rajasthan, Arunachal Pradesh and Bihar are the five states showing lowest literacy rate of less than 66%.
+4. The Andaman and Nicobar Islands had the lowest growth rate of 0.7%, while Nagaland had the highest growth rate of 82.27%.
 
-6. Daman and Diu and Dadra and Nagar Haveli are the states having lowest sex ratio (lesser than 800). On the other hand Kerala, Puducherry and Uttarakhand are the states having highest sex ratio (greater than 1000).
+5. Jharkhand, Jammu and Kashmir, Rajasthan, Arunachal Pradesh, and Bihar were the five states showing the lowest literacy rate of less than 66%.
 
-7. Previous census population of India was 1.01 Billion.
+6. Daman and Diu and Dadra and Nagar Haveli were the states with the lowest sex ratio (less than 800). On the other hand, Kerala, Puducherry, and Uttarakhand were the states with the highest sex ratio (greater than 1000).
 
-8. Area per person according to previous census population was 0.0031 km2	which now reduced to 0.0026 km2. 
+7. The previous census population of India was 1.01 billion.
 
+8. The area per person according to the previous census population was 0.0031 km2, which reduced to 0.0026 km2 in the 2011 Census population. 
